@@ -37,10 +37,13 @@ An end-to-end **Exploratory Data Analysis (EDA)** project on the Netflix Movies 
 `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Google Colab`
 
 ## 📂 Repository Contents
-📁 Netflix-EDA
-┣ 📓 Project01_EDA_Netflix.ipynb   → Full analysis notebook
-┣ 📄 netflix_titles.csv            → Dataset used
-┗ 📘 README.md                     → Project overview
+```text
+Netflix-EDA/
+├── Project01_EDA_Netflix.ipynb   # Full analysis notebook
+├── netflix_titles.csv            # Dataset used
+└── README.md                     # Project overview
+```
+
 ## 🚀 How to Run
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com)
